@@ -16,9 +16,6 @@
   ],
   "author": "Travis Nuttall",
   "license": "MIT",
-  "peerDependencies": {
-    "react-native": "^0.31.0"
-  },
   "files": [
     "android/",
     "ios/",
